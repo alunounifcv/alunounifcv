@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\contabilidade\Desktop\TerraRoxa\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1652080659.index
+3966309524.index
+1169883874.index
+3137395183.index
+524331760.index
+588729038.index
