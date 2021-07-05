@@ -39,7 +39,8 @@ public class IntDotacaoDao {
 					+ "  CONSTRAINT fk_intdotacao PRIMARY KEY (entidade, eloexercicio, eloprogramatica, elofonterecurso, \r\n"
 					+ "                                        elodespesa, elodesdobramento, elosubdesdobramento)\r\n"
 					+ ")\r\n" + "WITH (\r\n" + "  OIDS=FALSE\r\n" + ");\r\n" + "ALTER TABLE public.intdotacao\r\n"
-					+ "  OWNER TO postgres;";			
+					+ "  OWNER TO postgres;";
+			
 			
 			try {
 				PreparedStatement ent = connection.prepareStatement(sqlInsereTab);
