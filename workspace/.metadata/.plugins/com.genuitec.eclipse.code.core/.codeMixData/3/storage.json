@@ -1,0 +1,18 @@
+{
+    "telemetry.machineId": "c670e1da42e296ae2ded867ad7519728bae726c85797d4fb01241ddc84510ad9",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "fc122d05967da8e730b3c0e7cf2950b9",
+                "configURIPath": "file:///c%3A/Users/contabilidade/Desktop/UNIFCV/alunounifcv/workspace/.metadata/codemix.code-workspace"
+            },
+            {
+                "id": "62294c1483bd96ba9396b44cd604797f",
+                "configURIPath": "file:///c%3A/Users/contabilidade/Desktop/TerraRoxa/workspace/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}

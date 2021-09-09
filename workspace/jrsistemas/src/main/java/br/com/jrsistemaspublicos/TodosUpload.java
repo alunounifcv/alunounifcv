@@ -11,8 +11,8 @@ public class TodosUpload {
 	public static void main(String[] args) {
       
 			//integracao(1, 2021, 04, 8787,"cmarapongas");  //CMArapongas
-			//integracao(1, 2021, 05, 12634,"cmguaira");  //CMGuaíra
-			 integracao(1, 2021, 05, 326,"fpterraroxa");  // Fundo de Terra Roxa
+			integracao(1, 2021, 06, 12634,"cmguaira");  //CMGuaíra
+			// integracao(1, 2021, 05, 326,"fpterraroxa");  // Fundo de Terra Roxa
 		
 	}
 	
